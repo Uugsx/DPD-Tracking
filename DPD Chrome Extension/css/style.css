@@ -1,0 +1,19 @@
+input {
+    padding: 10px;
+    font-size: 15px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+body {
+    padding: 50px;
+    background-image: url("/icons/128.png");
+    background-position: 104% 20%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.buttonSubmit {
+    margin: 10px auto;
+    height: 100%;
+}
